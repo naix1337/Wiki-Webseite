@@ -1,0 +1,86 @@
+{
+  "docs": [
+    {
+      "id": "1",
+      "title": "Getting Started",
+      "path": "/docs/getting-started",
+      "content": "# Getting Started\n\nWillkommen zur Docs Wiki! Hier erfahren Sie, wie Sie beginnen können.\n\n## Installation\n\n1. Klonen Sie das Repository\n2. Installieren Sie die Abhängigkeiten\n3. Starten Sie den Server\n\n## Erste Schritte\n\nNach der Installation können Sie sofort loslegen!",
+      "author": "admin",
+      "createdAt": "2024-01-15T10:00:00Z",
+      "updatedAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Installation",
+      "path": "/docs/installation",
+      "content": "# Installation\n\n## Systemanforderungen\n\n- Node.js 16+\n- npm oder yarn\n\n## Installationsschritte\n\n```bash\nnpm install\nnpm start\n```",
+      "author": "admin",
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-01-15T10:30:00Z"
+    }
+  ],
+  "guides": [
+    {
+      "id": "3",
+      "title": "Basic Usage",
+      "path": "/guides/basic-usage",
+      "content": "# Basic Usage\n\nLernen Sie die Grundlagen der Anwendung kennen.",
+      "author": "editor",
+      "createdAt": "2024-01-15T11:00:00Z",
+      "updatedAt": "2024-01-15T11:00:00Z"
+    }
+  ],
+  "faq": [
+    {
+      "id": "4",
+      "title": "Common Issues",
+      "path": "/faq/common-issues",
+      "content": "# Häufige Probleme\n\n## Problem 1\nLösung für Problem 1\n\n## Problem 2\nLösung für Problem 2",
+      "author": "admin",
+      "createdAt": "2024-01-15T12:00:00Z",
+      "updatedAt": "2024-01-15T12:00:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Administrator",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin",
+      "createdAt": "2024-01-15T09:00:00Z",
+      "lastLogin": "2024-01-15T14:30:00Z",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Editor User",
+      "email": "editor@example.com",
+      "password": "editor123",
+      "role": "editor",
+      "createdAt": "2024-01-15T09:30:00Z",
+      "lastLogin": "2024-01-15T13:45:00Z",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Test User",
+      "email": "user@example.com",
+      "password": "user123",
+      "role": "user",
+      "createdAt": "2024-01-15T10:00:00Z",
+      "lastLogin": "2024-01-15T12:15:00Z",
+      "active": true
+    },
+    {
+      "id": "eaea",
+      "name": "flo ",
+      "email": "florian@ggmgg.com",
+      "password": "FLO",
+      "role": "user",
+      "createdAt": "2025-09-25T06:52:44.128Z",
+      "lastLogin": "2025-09-25T06:52:44.128Z",
+      "active": true
+    }
+  ]
+}
